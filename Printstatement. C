@@ -1,0 +1,6 @@
+//print statement in c
+#include<stdio.h>
+void main()
+{
+ printf("hello")
+}
